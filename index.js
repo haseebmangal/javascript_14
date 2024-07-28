@@ -25,7 +25,7 @@
 // console.log(typeof str)
 
 // problem 05
-var str = "256px";
-console.log("before " + typeof str + str);
-var convert = parseInt(str);
-console.log("after " + typeof convert + convert)
+// var str = "256px";
+// console.log("before " + typeof str + str);
+// var convert = parseInt(str);
+// console.log("after " + typeof convert + convert)
